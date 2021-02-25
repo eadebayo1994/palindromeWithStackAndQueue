@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/emmanueladebayo/Desktop/CSCI 202/MO5_queueAndStack/main.cpp
+iostream
+-
+string
+-
+queue.h
+/Users/emmanueladebayo/Desktop/CSCI 202/MO5_queueAndStack/queue.h
+stack.h
+/Users/emmanueladebayo/Desktop/CSCI 202/MO5_queueAndStack/stack.h
+
+/Users/emmanueladebayo/Desktop/CSCI 202/MO5_queueAndStack/queue.h
+iostream
+-
+string
+-
+
+/Users/emmanueladebayo/Desktop/CSCI 202/MO5_queueAndStack/stack.h
+iostream
+-
+string
+-
+
